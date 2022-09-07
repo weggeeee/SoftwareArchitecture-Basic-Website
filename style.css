@@ -1,5 +1,5 @@
 .bd-placeholder-img {
-  font-size: 1.125rem;
+  font-size: 1.4rem;
   text-anchor: middle;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -63,7 +63,7 @@
 }
 
 .blog-header-logo:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 h1,
